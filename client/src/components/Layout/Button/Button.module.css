@@ -1,0 +1,27 @@
+.Button{
+    width: 100px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 4px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btnRetrieve{
+    background: rgb(85, 127, 218);
+    border: 1px transparent rgb(195, 216, 243);
+}
+
+.btnSearch{
+    background: rgb(20, 163, 44);
+    border: 1px transparent rgb(211, 247, 219);
+}
+
+.btnRetrieve:hover{
+    background: rgb(98, 143, 240);
+    transition: 100ms;
+}
+
+.btnSearch:hover{
+    background: rgb(109, 180, 115);
+    transition: 100ms;
+}

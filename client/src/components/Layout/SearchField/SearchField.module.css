@@ -1,0 +1,8 @@
+.SearchField{
+    height: 40px;
+    width: 300px;
+    padding: 10px;
+    border: 1px transparent rgb(92, 92, 92);
+    margin-left: 20px;
+    margin-right: 20px;
+}
